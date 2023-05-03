@@ -1,4 +1,5 @@
-﻿using System;
+﻿using LogicalPoblems;
+using System;
 
 namespace LogicalProblem
 {
@@ -7,6 +8,7 @@ namespace LogicalProblem
         public static void Main(string[] args) 
         {
             Console.WriteLine("Hello Logical Programing Problem");
+            Fibonacci.DisPlayFibonacci();
         }
     }
 }
