@@ -8,7 +8,7 @@ namespace LogicalProblem
         public static void Main(string[] args) 
         {
             Console.WriteLine("Hello Logical Programing Problem");
-            Reverse.ReverseNumber();
+            PrimeNumber.CheckPrimeNumber();
         }
     }
 }
